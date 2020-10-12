@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Mik",
+				"Mike_avg_score"
+			],
+			[
+				"joh",
+				"John_avg_score"
+			],
+			[
+				"Joh",
+				"John_avg_score"
+			],
+			[
+				"Ma",
+				"Mary_avg_score"
+			],
+			[
+				"Jo",
+				"John_avg_score"
+			],
+			[
+				"Mi",
+				"Mike_avg_score"
+			],
+			[
+				"jo",
+				"John_avg_score"
+			],
+			[
+				"te",
+				"testFindGene"
+			],
+			[
+				"find",
+				"findGene"
+			],
+			[
+				"stop",
+				"stopCodonTAG"
+			],
+			[
+				"stopCo",
+				"stopCodonTAG"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"ma",
+				"max_speed"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"char",
+				"Character"
+			],
+			[
+				"l",
+				"linkedlist"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"R",
+				"RecMaze"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"q",
+				"QSort"
+			],
+			[
+				"b",
+				"bmin"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"image",
+				"image1btn"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"colla",
+				"collapse"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"coll",
+				"collapsibleNavbar"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"meg",
+				"mergeSort"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"c",
+				"cycle"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fro",
+				"for\tFor Loop"
+			],
+			[
+				"user",
+				"user_views"
+			],
+			[
+				"En",
+				"END"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sud98/Desktop/JavaScript/complete-javascript-course-master/4-DOM-pig-game/starter/app.js",
+		"/C/Users/sud98/Desktop/JavaScript/Code1/index.html",
+		"/C/Users/sud98/Desktop/JavaScript/Code1/challenge1.js",
+		"/C/Users/sud98/Desktop/Java_Coursera/package.bluej",
+		"/C/Users/sud98/Desktop/Java_Coursera/PerimeterAssignmentRunner.java",
+		"/C/Users/sud98/Desktop/Java_Coursera/example1.txt",
+		"/C/Users/sud98/Desktop/python progs/dfs.py",
+		"/C/Users/sud98/Desktop/python progs/QuickSort.py",
+		"/C/Users/sud98/Desktop/WebDev/Course_1/Week_2 ass/index.html",
+		"/C/Users/sud98/tictactoe/tictactoe_2P/tictactoe.py",
+		"/C/Users/sud98/Desktop/python progs/testi.java",
+		"/C/Users/sud98/Desktop/JAVA_Banking_project/Starter and master files/AccountWithConditions.java",
+		"/C/Users/sud98/Desktop/JAVA_Banking_project/Starter and master files/AccountWithoutSync.java",
+		"/C/Users/sud98/Desktop/JAVA_Banking_project/Starter and master files/AccountWithSync.java",
+		"/C/Users/sud98/Desktop/JAVA_Banking_project/Starter and master files/MultithreadingIntro.java",
+		"/C/Users/sud98/Desktop/python progs/test1.py",
+		"/C/Users/sud98/Desktop/python progs/reverseLL.py",
+		"/C/Users/sud98/Desktop/Projects/SQL Project/EmployeesExcerpt.sql",
+		"/C/Users/sud98/Desktop/Projects/SQL Project/Querying_Databases_Using_SQL_SELECT_Statement.sql",
+		"/D/java progs/InnerClass/src/InnerClass.java",
+		"/C/Users/sud98/Desktop/python progs/LList.java",
+		"/C/Users/sud98/Desktop/python progs/graph.py",
+		"/C/Users/sud98/Desktop/python progs/maxHeapInsert.py",
+		"/C/Users/sud98/Desktop/python progs/Next_Smaller_Palindrome.py",
+		"/C/Users/sud98/Desktop/python progs/xyz.java",
+		"/C/Users/sud98/Desktop/python progs/abc.java",
+		"/C/Users/sud98/Desktop/python progs/cat.c",
+		"/C/Users/sud98/Desktop/python progs/PostOrderTraversalOfTree.py",
+		"/C/Users/sud98/Desktop/python progs/zigzag.py",
+		"/C/Users/sud98/Desktop/python progs/prims.py",
+		"/C/Users/sud98/Desktop/python progs/testify.py",
+		"/C/Users/sud98/Desktop/python progs/RecursiveMaze.py",
+		"/C/Users/sud98/Desktop/python progs/backtrac.py",
+		"/C/Users/sud98/Desktop/python progs/lol.py",
+		"/C/Users/sud98/Desktop/python progs/mergeSort.py",
+		"/C/Users/sud98/Desktop/python progs/InsertinSort.py",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_3/ImageChoice/index.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_3/ImageChoice/myImage.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/Nav_test.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/albums.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/photo_1.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/photo_2.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/photo_3.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_3/ImageTemplate/index.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/test_projects/bootstrap.css",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_2/Week_2_assignment/index.html",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Nav_test.html",
+		"/C/Users/sud98/Desktop/python progs/test.py",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_2/bootstrap_basic_bootstrap_setup_week2/css/bootstrap_blue.css",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_2/bootstrap_basic_bootstrap_setup_week2/css/bootstrap_plain.css",
+		"/C/Users/sud98/Desktop/WebDev/Course_2/Week_2/bootstrap-4.5.0-dist/css/bootstrap.css",
+		"/C/Users/sud98/Desktop/WebDev/week_3/imagegallery.html",
+		"/C/Users/sud98/Desktop/WebDev/week_4/week_4_eReader_night_mode/index.html",
+		"/C/Users/sud98/Desktop/WebDev/week_4/week_4_eReader_night_mode/styles.css",
+		"/C/Users/sud98/Desktop/WebDev/week_4/test.html",
+		"/C/Users/sud98/Desktop/WebDev/week_4/SlideShow/index.html",
+		"/C/Users/sud98/Desktop/WebDev/week_3/week_3_peer_update_Jan17/styles.css",
+		"/C/Users/sud98/Desktop/WebDev/week_3/bootstrap.css",
+		"/C/Users/sud98/Desktop/first_prog.py",
+		"/C/Users/sud98/Desktop/WebDev/week_3_code/imagegallery.html",
+		"/C/Users/sud98/Desktop/WebDev/week_3_peer_update_Jan17/index.html",
+		"/C/Users/sud98/Desktop/WebDev/week_3_code/index.html",
+		"/C/Users/sud98/Desktop/WebDev/projects/Myproject.html",
+		"/C/Users/sud98/Desktop/prog assign/week2_algorithmic_warmup/1_fibonacci_number/fibonacci.py",
+		"/C/Users/sud98/Desktop/WebDev/bootstrap-4.5.0-dist/css/bootstrap.css",
+		"/C/Users/sud98/Desktop/prog assign/week1_programming_challenges/2_maximum_pairwise_product/max_pairwise_product.py",
+		"/C/Users/sud98/Desktop/python progs/aplusb.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/mergeSort.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/tree.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/PostOrderTraversalOfTree.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/StringCombinations.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/test1.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/test.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/graph.py",
+		"/C/Users/sud98/Downloads/LOWSUM.java",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/dfs.py",
+		"/C/Users/sud98/Downloads/FIRESC (1).cpp",
+		"/C/Users/sud98/Downloads/FIRESC.cpp",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/bfs.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/maxHeapInsert.py",
+		"/C/Users/sud98/projects/project1/users/views.py",
+		"/C/Users/sud98/projects/project1/users/templates/users/profile.html",
+		"/C/Users/sud98/projects/project1/project1/urls.py",
+		"/C/Users/sud98/projects/project1/project1/settings.py",
+		"/C/Users/sud98/projects/project1/chat/templates/chat/base.html",
+		"/C/Users/sud98/projects/project1/users/templates/users/login.html",
+		"/C/Users/sud98/projects/project1/users/templates/users/logout.html",
+		"/C/Users/sud98/projects/project1/users/templates/users/register.html",
+		"/C/Users/sud98/projects/project1/users/forms.py",
+		"/C/Users/sud98/projects/project1/chat/views.py",
+		"/C/Users/sud98/projects/project1/chat/templates/chat/home.html",
+		"/C/Users/sud98/projects/project1/chat/templates/chat/about.html",
+		"/C/Users/sud98/projects/project1/chat/apps.py",
+		"/C/Users/sud98/projects/project1/chat/urls.py",
+		"/C/Users/sud98/projects/project1/manage.py",
+		"/D/Python progs/Snake.py",
+		"/C/Users/sud98/OneDrive/Desktop/py gui/calc.py",
+		"/C/Users/sud98/OneDrive/Desktop/py gui/input.py",
+		"/C/Users/sud98/tictactoe/tictactoe.py",
+		"/C/Users/sud98/tictactoe/tictactoe/tictactoe.py",
+		"/D/Python progs/ttt.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/eval_postfix.py",
+		"/D/Python progs/tictactoe.py",
+		"/C/Users/sud98/OneDrive/Desktop/python progs/firsr_repeating.py",
+		"/D/Python progs/count.py",
+		"/D/Python progs/tuple.py",
+		"/D/Python progs/fibo.py",
+		"/D/Python progs/ISort.py",
+		"/C/Users/sud98/OneDrive/Desktop/fp.py",
+		"/C/Users/sud98/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/sud98/OneDrive/Desktop/test.py",
+		"/C/Users/sud98/OneDrive/Desktop/t.java"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
