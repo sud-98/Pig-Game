@@ -157,7 +157,7 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
-
+.btn-rules {top: 105px;}
 .dice {
     position: absolute;
     left: 50%;

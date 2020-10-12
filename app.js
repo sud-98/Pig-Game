@@ -132,3 +132,16 @@ function init(){
 	document.querySelector('.player-1-panel').classList.remove('active');
 	document.querySelector('.player-0-panel').classList.add('active');
 }
+
+//Game rules button
+
+document.querySelector('.btn-rules').addEventListener('click', function(){
+	alert("GAME RULES:"+'\n'+"- The game has 2 players, playing in rounds"+'\n'+
+"- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score"+'\n'+
+"- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn"+'\n'+
+"- The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn"+'\n'+
+"- The first player to reach Final Score points on GLOBAL score wins the game"+'\n'+
+"- Default Fianal Score is 100 if not set by the user"+'\n'+
+"- A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn."
+);
+});
